@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ai-workshop/static/css/main.0da9fd72.css",
+    "main.js": "/ai-workshop/static/js/main.91ad9cac.js",
+    "static/js/453.b99a060e.chunk.js": "/ai-workshop/static/js/453.b99a060e.chunk.js",
+    "index.html": "/ai-workshop/index.html",
+    "main.0da9fd72.css.map": "/ai-workshop/static/css/main.0da9fd72.css.map",
+    "main.91ad9cac.js.map": "/ai-workshop/static/js/main.91ad9cac.js.map",
+    "453.b99a060e.chunk.js.map": "/ai-workshop/static/js/453.b99a060e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0da9fd72.css",
+    "static/js/main.91ad9cac.js"
+  ]
+}
